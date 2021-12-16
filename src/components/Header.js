@@ -32,6 +32,7 @@ const Header = () => {
         </div>
         <div className='mobile'>
             <img src={hamburger} />
+            <img className='punkLogo' src={punkLogo} />
         </div>
         </>
     )

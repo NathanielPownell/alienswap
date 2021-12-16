@@ -12,6 +12,9 @@
 .mobile > img {
     width: 40px;
 }
+.mobile > img.punkLogo {
+    width: 200px;
+}
 
 
 .header > div {

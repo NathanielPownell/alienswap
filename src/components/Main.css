@@ -78,3 +78,22 @@
 .price > img{
     height: 30px;
 }
+
+
+@media screen and (max-width: 700px) {
+    .title {
+        font-size: 2em;
+    }
+    .itemNumber {
+        font-size: 2em;
+    }
+    .address{
+        font-size: .6em;
+    }
+    .ownerImg {
+        width: 30px;
+    }
+    .ownerLinks {
+        display: none;
+    }
+}

@@ -9,9 +9,16 @@
 
 .cardList::-webkit-scrollbar {
     background-color: rgb(85, 85, 85);
+    border-radius: 15px;
+    height: 30px;
 }
 ::-webkit-scrollbar-thumb {
-    background: #1c1c1e;
+    background: linear-gradient(to right, #a541ff
+    , #3fbbfe);
+    border-top: 1px solid honeydew;
+    border-left: 1px solid honeydew;
+    border-bottom: 1px solid rgba(2, 2, 2, 0.459);
+    border-right: 1px solid rgba(0, 0, 0, 0.26);
     border-radius: 15px;
 }
 
