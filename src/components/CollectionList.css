@@ -1,0 +1,17 @@
+.cardList {
+    display: flex;
+    white-space: nowrap;
+    overflow-x: scroll;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cardList::-webkit-scrollbar {
+    background-color: rgb(85, 85, 85);
+}
+::-webkit-scrollbar-thumb {
+    background: #1c1c1e;
+    border-radius: 15px;
+}
+
