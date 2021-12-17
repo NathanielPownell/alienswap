@@ -42,6 +42,7 @@ const Main = ({selectedPunk, punkListData}) => {
                     <div className='ownerDetails'>
                         <div className='ownerNameAndHandle'>
                             <div className='address'>
+                                Owner Address: &nbsp;
                                 {activePunk.owner.address}
                             </div>
                                                     </div>
