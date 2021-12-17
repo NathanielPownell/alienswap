@@ -39,7 +39,7 @@ Thirdweb was used to create an NFT Collection using the Ethereum blockchain.
 ![metamask](https://metamask.io/images/mm-logo.svg)
 Metamask wallet was used to store the collection and Ethereum on the rinkeby test network.
 
-<img src="https://opensea.io/static/images/logos/opensea-white.svg" width="48">
+<img src="https://opensea.io/static/images/logos/opensea-white.svg" alt="opensea" width="48">
 OpenSea is an NFT marketplace. In this project we use the OpenSea API to gather information on the NFT collection.
 
 ![ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
